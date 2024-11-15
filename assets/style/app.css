@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+  /* background-color: rgb(74, 154, 89);
+  background-image: url(); */
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 90px;
+}
+
+.profileImage {
+  width: 200px;
+}
+
+.tentang {
+  background: linear-gradient(#f7f5f8 0%, #e9e5e5 40%, #814abf00 100%);
+  padding-bottom: 250px;
+}
+
+.footer {
+  background-color: white;
+}
+
+.map {
+  display: block;
+  margin: 20px auto;
+}
