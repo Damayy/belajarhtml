@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+  background: linear-gradient(#08ddc1 0%, #dd4c4f 40%, #7420d3 100%);
   /* background-color: rgb(74, 154, 89);
   background-image: url(); */
 }
@@ -16,6 +16,9 @@ body {
   width: 200px;
 }
 
+.prestasi {
+  padding-bottom: 130px;
+}
 .tentang {
   background: linear-gradient(#f7f5f8 0%, #e9e5e5 40%, #814abf00 100%);
   padding-bottom: 250px;
@@ -23,6 +26,8 @@ body {
 
 .footer {
   background-color: white;
+  padding-bottom: 150px;
+  background: linear-gradient(#f7f5f8 0%, #e9e5e5 40%, #814abf00 100%);
 }
 
 .map {
